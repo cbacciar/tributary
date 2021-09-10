@@ -6,6 +6,8 @@ ipydagred3@0.2.5
 ipyregulartable@0.1.2
 "
 
+jupyter labextension install @finos/perspective-jupyterlab
+jupyter labextension install @jupyter-widgets/jupyterlab-manager
 jupyter labextension install $EXTENSIONS --no-build
 jupyter lab build --dev-build=False --minimize=False
 
