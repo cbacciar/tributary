@@ -7,3 +7,4 @@ requests==2.24.0
 tributary==0.1.4
 matplotlib==3.4.3
 perspective-python==0.10.2
+ipywidgets==7.6.4
