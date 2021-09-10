@@ -1,4 +1,7 @@
 #!/bin/bash
+
+sudo apt install graphviz
+
 EXTENSIONS="
 @jupyter-widgets/jupyterlab-manager@2.0.0
 ipydagred3@0.2.5
