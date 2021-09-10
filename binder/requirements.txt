@@ -1,5 +1,6 @@
 ipydagred3==0.2.5
 ipyregulartable==0.1.2
+jupyterlab_widgets
 ipywidgets
 jupyterlab
 pyEX==0.2.5
@@ -7,4 +8,3 @@ requests==2.24.0
 tributary==0.1.4
 matplotlib
 perspective-python
-ipywidgets
