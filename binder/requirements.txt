@@ -5,5 +5,5 @@ jupyterlab==2.2.8
 pyEX==0.2.5
 requests==2.24.0
 tributary==0.1.4
-matplotlib==*
-perspective-python==*
+matplotlib==3.4.3
+perspective-python==0.10.2
