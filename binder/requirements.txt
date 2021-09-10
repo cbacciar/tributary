@@ -1,10 +1,11 @@
-ipydagred3==0.2.5
-ipyregulartable==0.1.2
+widgetsnbextension
+ipydagred3
+ipyregulartable
 jupyterlab_widgets
 ipywidgets
 jupyterlab
-pyEX==0.2.5
-requests==2.24.0
-tributary==0.1.4
+pyEX
+requests
+tributary
 matplotlib
 perspective-python
